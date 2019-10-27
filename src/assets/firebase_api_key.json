@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "enfermedades-db",
+  "private_key_id": "f4ad0480fbb254877683859f6c70308582224bbd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCn05k11d04ZXzf\nepS2BXP6eK0s6I50hNeIoYZ5d+qwDP80MB55Wwwjh4Y+49ptwrEJWjCyPX57NajN\n2EaQphLiQAxS74jFFY7wpZWiF8nXUtcpzFulx6nP95SZmypugXq1MMShw4IwgvJf\nhfXfXL6eBuALv168ujBrqKYfx45nY0fNzWVgA2Y5KIzu0vsxAopR//ttXsqEOMJe\n8vNcJ2oYa8UsIAY2S8Yj4sAb95SoF9ZLVmuBUOUWIyK6AYXeQUB34hIkEuZYXE5j\n4tXIE/LH84sBfdMQo0Bye7AxFBqgMPW9ktSul/HWMUC07hptRoPMKvm6wLfrc9IN\nCm1AU53PAgMBAAECggEAJ9Bbkvl7A0OUVcITYIE3q+6QCsza6sqPBVNofw2TSBO1\nQXC+8gRHA3DFyMquSYa8EB9s2QQcqucmdjr+NpeneDRAmDZKSJMeN3nY3zzsfeAh\nukFIZrJQ100BXFWCwfeGoFCC/WtPyeluzXmOxGAQupWf9jl+pKA5F3lJe9WQM3do\nMsvX7pgv5xkHJho10co4Twl9mqdLYB8yBPauJAZ3ddDmqAxWaKo8oUkkHc4wgpBt\nJ3cmH5kDZDAZShmnruwD2qyi1geP346KuDu9EEYBsN5u6K5LCFLkrBNop8p5JHE1\n2JCT3DH5ob1q+kK0JSOSxOTNDOCAkabegK3ix7sf+QKBgQDUquxfBtpLWb3GWJzk\nxvpqMYvXKl/IOO5emSZyL0lmac687fUxoHL9aB2Pqm/10jvc7gtXHxNOPsAd+6S1\nYX/dILuFBgg0pGOeacMiuY2f3CzZNK2/wRKfjhsCF5bmR6ky4v72d8563AbzzqZB\nCYTd+CIhDSdERW3i6vB7BxwcGQKBgQDKBbFix4LzL46Ajl4iI0L6+/X4m9zuyrm4\nVFjbMqtsgZDMdPLdQ0CrXdh6+ejtZ8dyLt0DbaQMCmoAFrn7EPfHIKQifb3uzANA\n+jkqvL0SpjkePbbtyJr19EpXMMLdFEQdjOkJtjnJxXMXbrymY81fckCEizn5+RGd\nLK6wgdDGJwKBgQCcJW9uCkMHZjnPw0pXM72zcPODJQq0oRBsBrjSx+N1vaRc1b7d\nFDi51NM3o+WWsSjg+yr6acesAKjgmt6BirfuLVVhw18M/9JhAriS63iP8oI/bM1R\n6Ln6ysUL0TQrmlwiD8cyQh8p2BmGs6kgQZP7wm+Uouq81tlq7iNpwXujKQKBgAL6\nToEMO8vl2Y3fi1epeWVFrXx6n6kNZ+tlouGoP4qb5kx9NM86HIvqGDTH1j0ZmIEA\nW9WfGhnrVWCm9RrURzKyMnknrVMFws6EYa9VlNvfg1wEwNuEZ3RUo3vhhh3IHLDq\n0MyJ2RQ2Stn/kdxKAE712imZ+8LJfw74B6MmZrNlAoGBAJMcuXn37VvTqXgb0Bke\nPGve6vLKjT9ETNNN2Rsm3RY93HK+gu7w2XqlF9HfGy4j0zeWiirF+EAYzbXT3dxv\nOplSwk2dRVjqIBMTt1vdcIeFBcvcwDVPvGgfrV9gmZ1OsdRsKUPUDvIcaLpmAtgW\nEVLEvanIAZCZkeU+qUDSXvk2\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hp00x@enfermedades-db.iam.gserviceaccount.com",
+  "client_id": "108239752007541773984",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hp00x%40enfermedades-db.iam.gserviceaccount.com"
+}
