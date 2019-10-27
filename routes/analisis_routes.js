@@ -1,7 +1,6 @@
 const { Router } = require('express');
 const router = Router();
 const fetch = require('fetch-base64');
-//const client = require('../google.js')
 const automl = require('@google-cloud/automl').v1beta1;
 
 
