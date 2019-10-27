@@ -11,7 +11,7 @@ router.get('/analizarImagen', async(req, res) => {
 
     //auth cliente
     const client = new automl.PredictionServiceClient({
-        keyFilename: 'app/assets/google_api_key.json'
+        keyFilename: 'assets/google_api_key.json'
     });
 
     //model details
