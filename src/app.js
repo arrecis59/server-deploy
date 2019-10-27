@@ -14,7 +14,7 @@ app.use(morgan('dev'));
 app.use(express.json());
 
 //routes
-app.use(require('./routes/initial_routes'));
+//app.use(require('./routes/initial_routes'));
 app.use(require('./routes/analisis_routes'));
 app.use(require('./routes/firebase_routes'));
 
