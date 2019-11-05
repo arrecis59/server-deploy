@@ -31,6 +31,30 @@ router.get('/consultarSintomas', async (req, res) => {
 });
 
 
+//CONSULTAR GRAVEDAD ENERMEDAD
+router.get('/consultarGravedad',  async(req, res) =>{
+
+    //Query parameters
+    const enfermedad = req.query.enfermedad;
+
+    //Settings request firebase
+    const eventRef = db.ref('enfermedades');
+    const nameEnfermedad = eventRef.child(`${enfermedad}`);
+   
+    nameEnfermedad.on('value', async (snapShot, err) =>{
+
+        if(snapShot.exists()){
+            let resp = await snapShot.val();
+            res.status(200).json({"gravedad": resp["gravedad"], "status": true});
+        }else{
+            res.status(500).json({ "message": "error al consultar gravedad de enfermedad", "status": false });
+        }
+
+    });
+
+
+});
+
 
 //INSERTAR REGISTRO HISTORIAL
 router.post('/insertarHistorial', async (req, res) => {
